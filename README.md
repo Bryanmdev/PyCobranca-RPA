@@ -70,4 +70,5 @@ O robô cria automaticamente a estrutura necessária na primeira execução:
 ## ⚠️ Disclaimer
 Este projeto foi desenvolvido para fins de automação de demandas e otimização de processos internos.
 ---
-*Desenvolvido por Bryan Miranda - Cientista da Computação*
+*Desenvolvido por Bryan M - Cientista da Computação & Marcus F - Engenheiro de Software*
+
