@@ -1,0 +1,3 @@
+Filial,Banco,Id,Nome do Cliente,Título,Parcela,Emissao,Tipo,Número,F.Pagamento,Nosso Numero,Vencimento,Valor,Recebido,Sld Devedor,Vlr Retorno,Pagamento,Situação,Remessa,Historico,Complemento,Telefone,CNPJ,RCA,Nome do RCA
+0,10,101,Nome exemplo,000000/0,11111,01/01/2026,NF,12345,BOLETO,11111111111111111,01/02/2026,"1000000,00","0,00","1000000,00","0,00",,ABERTO,555,/,,999999999,40028922222,2,Nome exemplo
+1,1,1111,Nome exemplo,000000/0,46055,01/01/2026,NF,54321,BOLETO,11111111111111111,01/02/2026,"1000000,00","0,00","1000000,00","0,00",,ABERTO,555,/,,999999999,40028922222,2,nome exemplo
